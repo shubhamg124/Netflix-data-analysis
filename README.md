@@ -9,11 +9,16 @@ This project provides an analytical view of Netflix's content using a Kaggle dat
 
 ## 3. Tech Stack  
 The project was built using the following tools and technologies:<br>  
-• 🐍 **Python** – For data cleaning, analysis, and visualization  
-• 📊 **Pandas** – Data manipulation and transformation  
-• 📈 **Matplotlib & Seaborn** – Visual analytics 
+• 🐍 **Python** – For data cleaning, analysis, and visualization
+
+• 📊 **Pandas** – Data manipulation and transformation 
+
+• 📈 **Matplotlib & Seaborn** – Visual analytics
+
 • 📊 **Power BI Desktop** – For interactive dashboards and final visual presentation
-• ☁️ **Google Colab** – Cloud-based Jupyter Notebook environment  
+
+• ☁️ **Google Colab** – Cloud-based Jupyter Notebook environment
+
 • 🐙 **Git & GitHub** – Version control and project sharing  
 
 
