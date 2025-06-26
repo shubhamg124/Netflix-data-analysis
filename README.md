@@ -1,6 +1,5 @@
 # 🎬 Netflix Data Analysis Dashboard
 
-##Netflix Data Analysis: Insights from Streaming Trends##  
 An exploratory data analysis (EDA) project using Python and Power BI to uncover patterns in Netflix's content catalog—examining genres, country contributions, content type trends, and more.
 
 
