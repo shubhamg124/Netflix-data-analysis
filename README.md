@@ -69,7 +69,7 @@ Python was used for cleaning and analyzing the data, while Power BI was used to 
 📍 **Platform Strategy** – TV vs Movie ratios help in balancing long-form and short-form content strategy.
 
 
-## 6. Screenshots / Demos   
+## 6. Screenshots  
 ![Netflix EDA Screenshot](https://github.com/shubhamg124/Netflix-data-analysis/blob/main/Snapshot%20of%20Netflix%20data%20analysis.png )
 ## 📌 Author  
 **Shubham G**  
